@@ -1,0 +1,30 @@
+{
+  "title": "ts for quality check",
+  "description": "for quality check purpose",
+  "artist": "whosaint",
+  "author": "whosaint",
+  "cover": "",
+  "chapters": {
+    "1": {
+      "title": "1",
+      "volume": "1",
+      "last_updated": "1662266205",
+      "groups": {
+        "none": [
+          "https://i.ibb.co/rt1yH9Z/01.png",
+          "https://i.ibb.co/CbJZVJ9/02.png",
+          "https://i.ibb.co/WVRLgzs/03.png",
+          "https://i.ibb.co/9vmqksh/04.png",
+          "https://i.ibb.co/T0k0jgB/05.png",
+          "https://i.ibb.co/y59X7kk/06.png",
+          "https://i.ibb.co/SshfgSt/07.png",
+          "https://i.ibb.co/gtXdZGZ/08.png",
+          "https://i.ibb.co/dMcx7LW/09.png",
+          "https://i.ibb.co/H729Z3k/10.png",
+          "https://i.ibb.co/kqPCwTD/11.png",
+          "https://i.ibb.co/3r7hs98/12.png"
+        ]
+      }
+    }
+  }
+}
