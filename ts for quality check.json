@@ -1,16 +1,16 @@
 {
-  "title": "ts for quality check",
+  "title": "madoka",
   "description": "for quality check purpose",
   "artist": "whosaint",
   "author": "whosaint",
   "cover": "",
   "chapters": {
     "1": {
-      "title": "1",
-      "volume": "1",
+      "title": "50",
+      "volume": "",
       "last_updated": "1662266205",
       "groups": {
-        "none": [
+        "": [
           "https://i.ibb.co/rt1yH9Z/01.png",
           "https://i.ibb.co/CbJZVJ9/02.png",
           "https://i.ibb.co/WVRLgzs/03.png",
